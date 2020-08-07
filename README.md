@@ -1,3 +1,6 @@
+# Dependencies
+pip install python-docx 
+
 # Pandas Data Exploration Journey
 The Pandas Data Exploration Journey series will consist of following notebooks :
 1. Data Profiling (01_16_av_automated_data_profiling_MS_WORD.ipynb)
